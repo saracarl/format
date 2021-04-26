@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "annotation format demo" ] },
+    "summary": { "en": [ "a demo to show tsv, csv, xslt annotation imports" ] },
+    "items": [
+    ]
+}
